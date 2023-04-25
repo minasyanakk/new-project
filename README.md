@@ -18,3 +18,7 @@ The changes from the "development" branch are merged into the "main" branch succ
 Definition of Done (DoD):
 
 Link to new-project Readme file
+
+git clone https://github.com/minasyanakk/new-project.git
+git checkout development
+git pull origin development
